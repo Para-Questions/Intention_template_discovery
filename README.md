@@ -1,4 +1,5 @@
-This is the first part of question paraphrase. Each line is a paraphrase pair separated by “\t”.
+This is the first part of question paraphrase. Each line is a paraphrase pair separated by “\t”. Other parts of the data are available in site 
+
 Some examples are presented as follows:
 华为荣耀7i和oppor7哪个好        华为荣耀畅玩5x好还是oppor7好    1
 华为荣耀7i和oppor7哪个好        手机华为荣耀7与oppor7那个好     1
